@@ -10,4 +10,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Um sistema de inscrição básico feito Python. Desenvolvido durante o meu curso de ADS na FIAP.
+Um sistema de inscrição básico feito para praticar. Desenvolvido durante o meu curso de ADS na FIAP.
