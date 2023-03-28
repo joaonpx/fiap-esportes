@@ -14,7 +14,7 @@ if student.em.isdigit() == False:
    quit()
 
 # verificando tamanho do rm
-elif len(str(student.em)) is not 6:
+elif len(str(student.em)) != 6:
    print("\nRM invalido, tente novamente.")
 
    quit()
